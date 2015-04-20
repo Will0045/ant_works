@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project default="move target" name="Wills First Move Project">
-	<target name="move target">
-			<move file name="moved.xml" to="C:\Users\708461\ant work\test"/>
-	</target>
-</project>
-
